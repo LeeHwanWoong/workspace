@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/ppc386" Date="1486907966"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw -gl -l -vewnhibq -Fi/Users/LeeHwanWoong/Documents/workspace/Pascal/lib/i386-darwin -Fu/Users/LeeHwanWoong/Documents/workspace/Pascal/ -FU/Users/LeeHwanWoong/Documents/workspace/Pascal/lib/i386-darwin/ project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
