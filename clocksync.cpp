@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -88,5 +89,21 @@ int main(){
 		}
 	}
 
+=======
+using namespace std;
+
+int main(){
+	int c;
+	cin>>c;
+
+	for(int qq = 0; qq< c; qq++){
+		int test[16];
+		for(int i = 0;i<16;i++){
+			cin>>test[i];
+		}
+	}
+
+
+>>>>>>> 30cf5af6db2c64d2efe0a05eb069524c7c4d8b6d
 	return 0;
 }
